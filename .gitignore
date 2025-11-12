@@ -1,0 +1,17 @@
+backend/.env
+app/.env
+
+app/node_modules/*.log
+.expo/
+.expo-shared/
+
+backend/venv_backend/
+__pycache__/
+*.pyc
+
+.DS_Store
+Thumbs.db
+.vscode/
+
+dist/
+build/
